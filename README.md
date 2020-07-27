@@ -27,8 +27,8 @@ Your receiving these campfire ashes based on request.  If your receiving these a
 
 
 
-Many thanks!
--Chris Gray
-CubMaster Pack 428,  Redmond/Kirkland/Bellevue WA
+Many thanks!  
+-Chris Gray (CubMaster Pack 428, Redmond/Kirkland/Bellevue WA)
+
 
 ![](FleurDeLis_small-Logo-BC.png)
