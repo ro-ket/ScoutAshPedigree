@@ -1,6 +1,6 @@
 Thank you for participating in the Scouting BSA, 2020 Virtual Campout and for including others throughout the country.  
 
-Your receiving these campfire ashes based on request.  If your receiving these ashes in error, please accept our apologies.  Included in this mail are campfire ashes that have been carried from campfire to campfire, symbolically, since 1907.  If you've received them in error, please discard them in your normal garbage (while they are rare, the value is in the symbolism and not the material).
+Included in this mail are campfire ashes that have been carried from campfire to campfire, symbolically, since 1907.  If you've received them in error, please discard them in your normal garbage (while they are rare, the value is in the symbolism and not the material).
 
 The digital Pedigree is available for download at this location https://github.com/chgray/ScoutAshPedigree
 
@@ -11,7 +11,7 @@ The digital Pedigree is available for download at this location https://github.c
 
     https://github.com/chgray/ScoutAshPedigree
 
-3. If you attended the 2020 Virtual Campout and received ashs from Chris Gray/Pack428, you will see a branch for your Pack/Troop.  If you have received ashes from others, please feel free to create your own branch
+3. If you attended the 2020 Virtual Campout and received ashes from Chris Gray/Pack428, you will see a branch for your Pack/Troop.  If you have received ashes from others, please feel free to create your own branch
 
 4. As you use the ashes in your ceremonies, update your branch with campfires and events. Please limit each event to one row per event
 
