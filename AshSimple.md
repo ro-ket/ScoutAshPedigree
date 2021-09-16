@@ -17,7 +17,7 @@ The ashes we spread tonight into this campfire carry memories of past campfires 
 
 1. Scout is Helpful
 2. 1907 Brownsee
-3. 1p94'th Scouting campfires
+3. 1094'th Scouting campfires
 4. 50 countries; Scoutland, Hungary, Canada, Wales, New Zealand, England, 4 Denmark, 4 in Mexico, 1 in Jordan, 21 Conclaves and 200 woodbadges
 
 
@@ -38,9 +38,11 @@ This campfire is the 1094'th campfire, on record.
 5. In May of 2019 they were with my Pack, to celerate the first year where we had a vibrant Girls Den.
 
 6. Interesting during 2020, due to the COVID-19 pandemic, these ashes were involved in a virtual campout - where Boys and Girls in both the BSA and the Girl Scouts from all over the world shared a virtual campfire.
+	* Several first girls dens / troops
+	* Baltimore, Oregon, Maine
+	
 
-
-We will let this campfire conclude naturally tonight, and collect the ashes in the morning.  If you'd like to help carry on this tradtion within your Troop or Pack, Bill will provide information tomorrow on how to get a sample.
+We will let this campfire conclude naturally tonight, and collect the ashes in the morning.  If you'd like to help carry on this tradtion within your Troop or Pack, Bill will provide information tomorrow on how to get a sample at breakfast tomorrow.
 
 Please keep track of when and where you use the ashes, and bring them with you to major events such as this - 
 
