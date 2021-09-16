@@ -19,6 +19,7 @@ The ashes we spread tonight into this campfire carry memories of past campfires 
 2. 1907 Brownsee
 3. 1094'th Scouting campfires
 4. 50 countries; Scoutland, Hungary, Canada, Wales, New Zealand, England, 4 Denmark, 4 in Mexico, 1 in Jordan, 21 Conclaves and 200 woodbadges
+5. 
 
 
 [*Request Troop Guides to place the ashes in the fire*]
