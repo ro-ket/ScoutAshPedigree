@@ -32,7 +32,7 @@ The digital Pedigree is available for download at this location https://github.c
 
 
 Many thanks!  
--Chris Gray (CubMaster Pack 428, Redmond/Kirkland/Bellevue WA)
+-Chris Gray (Pack 428/Troop 572 - Washington)
 
 
 ![](FleurDeLis_small-Logo-BC.png)
