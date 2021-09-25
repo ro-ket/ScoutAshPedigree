@@ -25,9 +25,9 @@ The digital Pedigree is available for download at this location https://github.c
 
   [1]: AshPedigree.md
 
-[Sample Presentation][1]
+[Sample Presentation][2]
 
-  [1]: AshPresentation.md
+  [2]: AshPresentation.md
 
 
 
