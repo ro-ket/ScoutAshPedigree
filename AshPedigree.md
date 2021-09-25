@@ -1077,7 +1077,7 @@
 2017|USA|"“Wood Badge for the 21 “ Century W1 -609-17-1"
 2017|USA|"Wood Badge for the 21“ Century W1 -609-17-2"
 2018|USA|"Wood Badgeforthe 21“ Century W1-609-18-1”"
-2018|USA|"Wood Badge Regional Pilot Course W1 -609-18-2"
+2018|USA|"Wood Badge Regional Pilot Course W1-609-18-2"
 2018|USA|"CubScout Pack 428 <--> Scouting BSA Troop 572,  Seattle WA"
 2019|USA|"CubScout Pack 428 Campout  celebration of first year of Girls in Scouting BSA!"
 2019|USA| Fire Island, June Spring Camporee, North Port ME
@@ -1090,3 +1090,4 @@
 2020|USA| Pack 739, Portland Oregon (C/O Wren family, Otis Oregon)
 2020|USA|"2020 Virtual Camporee;  COVID-19 "Stay Home/Stay Healthy" worldwide stay at home restrictions preventing public gatherings"
 2020|USA| Troop 327 Virtual Campout, Sanford ME
+2021|USA| Wood Badge W1-609-21-1, Camp Pigott, Monroe WA
