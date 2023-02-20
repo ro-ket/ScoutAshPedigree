@@ -1090,3 +1090,4 @@
 2020|USA| Pack 739, Portland Oregon (C/O Wren family, Otis Oregon)
 2020|USA|"2020 Virtual Camporee;  COVID-19 "Stay Home/Stay Healthy" worldwide stay at home restrictions preventing public gatherings"
 2020|USA| Troop 327 Virtual Campout, Sanford ME
+2023|USA| Pack 252 Campfire, Camp Sheppard Winter Camp, Castle Mt. Hut, 2/17-2/19/2023
